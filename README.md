@@ -7,6 +7,5 @@ Projeto desenvolvido utilizando:
  - Maven
  - Java 8
 
-Autor:
-Francisco Jonas Rodrigues@gmail.com
-fco.jonas.rodrigues@gmail.com
+Autor: Francisco Jonas Rodrigues@gmail.com
+email: fco.jonas.rodrigues@gmail.com
